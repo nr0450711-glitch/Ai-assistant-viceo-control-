@@ -1,0 +1,6 @@
+{
+  "name": "APK AI",
+  "description": "AI-powered Android APK inspector and Gemini developer companion for analyzing app packages, permissions, and code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

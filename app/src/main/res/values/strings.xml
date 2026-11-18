@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">APK AI</string>
+    <string name="nav_ai_studio">AI Studio</string>
+    <string name="nav_inspector">Inspector</string>
+    <string name="nav_reports">Reports</string>
+    <string name="studio_title">APK AI Studio</string>
+    <string name="studio_subtitle">Gemini Developer &amp; Binary Companion</string>
+    <string name="chat_input_hint">Ask about APKs, permissions, logs, or Compose…</string>
+    <string name="action_send">Send</string>
+    <string name="action_attach_image">Attach screenshot</string>
+    <string name="action_new_chat">New session</string>
+    <string name="action_pick_apk">Pick .apk file</string>
+    <string name="action_inspect_self">Inspect current APK</string>
+    <string name="action_analyze_ai">Analyze with Gemini AI</string>
+    <string name="empty_inspector_title">Ready to Inspect</string>
+    <string name="empty_inspector_body">Select any .apk file from storage or inspect this running debug build to extract manifest metadata, permissions, SHA-256 signature, and run a Gemini AI security audit.</string>
+    <string name="empty_reports_title">No Saved Audits Yet</string>
+    <string name="empty_reports_body">Inspect an APK and run an AI security audit to store structured reports locally for offline review.</string>
+</resources>
